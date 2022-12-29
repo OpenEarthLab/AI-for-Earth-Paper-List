@@ -1,1 +1,1 @@
-# AI4Earth
+# AI4Earth Paper Share
