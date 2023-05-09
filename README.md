@@ -13,5 +13,24 @@
 ## Downsampling
 * High-resolution downscaling with interpretable deep learning: Rainfall extremes over New Zealand, Weather and Climate Extremes, 2022 (Q1).
 
+## Uncertainty
+
 ## Reviews
 * Spatiotemporal forecasting in earth system science: Methods, uncertainties, predictability and future directions, Earth-Science Reviews, 2021 (Q1).
+
+## Satellite Images
+* 
+
+## AAAI 2023 related (https://aaai-23.aaai.org/wp-content/uploads/2023/01/Updated_AAAI-23-Technical-Schedule-FEB09.pdf)
+* Counterfactual Dynamics Forecasting - A New Setting of Quantitative Reasoning
+* An Extreme-Adaptive Time Series Prediction Model Based on Probability
+* Opposite Online Learning via Sequentially Integrated Stochastic Gradient
+* Dish-TS: A General Paradigm for Alleviating Distribution Shift in Time Series Forecasting
+* WaveForM: Graph Enhanced Wavelet Learning for Long Sequence
+Forecasting of Multivariate Time Series
+* Spatio-Temporal Meta-Graph Learning for Traffic Forecasting
+* Improving Uncertainty Quantification of Deep Classifiers via
+Neighborhood Conformal Prediction: Novel Algorithm and Theoretical
+Analysis
+* 
+
