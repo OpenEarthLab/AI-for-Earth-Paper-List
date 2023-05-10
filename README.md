@@ -21,6 +21,13 @@
 ## Satellite Images
 * 
 
+## Optimization
+* auxiliary learning with joint task and data scheduling
+
+## Networks Architectures
+* Reversible Column Networks
+
+
 ## AAAI 2023 related (https://aaai-23.aaai.org/wp-content/uploads/2023/01/Updated_AAAI-23-Technical-Schedule-FEB09.pdf)
 * Counterfactual Dynamics Forecasting - A New Setting of Quantitative Reasoning
 * An Extreme-Adaptive Time Series Prediction Model Based on Probability
