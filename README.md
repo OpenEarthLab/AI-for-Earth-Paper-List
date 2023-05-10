@@ -14,6 +14,7 @@
 * High-resolution downscaling with interpretable deep learning: Rainfall extremes over New Zealand, Weather and Climate Extremes, 2022 (Q1).
 
 ## Uncertainty
+* Uncertainty Quantification for Traffic Forecasting: A Unified Approach, ICDE 2023
 
 ## Reviews
 * Spatiotemporal forecasting in earth system science: Methods, uncertainties, predictability and future directions, Earth-Science Reviews, 2021 (Q1).
