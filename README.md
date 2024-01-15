@@ -1,6 +1,9 @@
 # AI4Earth Papers
 
-## Medium-range Weather Forecasting
+## Medium-range Global Weather Forecasting
+* Challenges and design choices for global weather and climate models based on machine learning, GMD 2018
+* Improving Data-Driven Global Weather Prediction UsingDeep Convolutional Neural Networks on a Cubed Sphere, JAMES 2020
+
 
 ## Climate Prediction
 
