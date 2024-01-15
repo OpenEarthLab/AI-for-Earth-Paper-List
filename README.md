@@ -7,7 +7,7 @@
 
 ## Climate Prediction
 
-## Lidar
+## Radar
 
 
 ## Ensembles
