@@ -4,10 +4,20 @@
 * Challenges and design choices for global weather and climate models based on machine learning, GMD 2018
 * Improving Data-Driven Global Weather Prediction UsingDeep Convolutional Neural Networks on a Cubed Sphere, JAMES 2020
 
+## Neural Network Parameterization
+* Neural-Network Parameterization of Subgrid Momentum Transport in the Atmosphere, JAMES 2023
+* Neural Network Parameterization of Subgrid-Scale Physics From a Realistic Geography Global Storm-Resolving Simulation, JAMES 2024
 
 ## Climate Prediction
+* Deep learning for multi-year ENSO forecasts
+* Multi-task machine learning improves multi- seasonal prediction of the Indian Ocean Dipole
+* Exploring dominant processes for multi-month MJO prediction using deep learning
+* Seasonal Arctic sea ice forecasting with probabilistic deep learning
+* Early warning signal for a tipping point suggested by a millennial Atlantic Multidecadal Variability reconstruction
 
-## Radar
+## Precipitation Nowcasting
+* CasCast: Skillful High-resolution Precipitation Nowcasting via Cascaded Modelling
+* Skilful nowcasting of extreme precipitation with NowcastNet, Nature 2023
 
 
 ## Ensembles
